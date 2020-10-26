@@ -24,22 +24,29 @@ prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " D
 for word in prefixes_suffixes:
     student_data_df["student_name"] = student_data_df["student_name"].str.replace(word,"")
 ```
-<<<<<<< HEAD
 
 In the above snipet, we are using a For Loop to iterate through each of the prefixes and suffixes and update the student names in the larger student file, replacing characters left and right of blank spaces at the beginning and end of the students name with a zero length string.
 
 As we completed all of the deliverables above, we learned after completing them that there were some problems with the data at one of the schools in the district and that some of the scores were possibly fraudulent.  As a result, many of the steps herein were completed twice as we reevaluated the 9th grade scores at Thomas High School and excluded that subset of data.
 
 We will provide comparative information for our deliverables in the results section below as we also discuss the methods for attaining the deliverables.
-=======
->>>>>>> 8e17f351c9b8bbc65837af7ce77d876b2436875c
 
 ---
 # Results
 ---
 Our first presenation of the high-level snapshot of the district's key metrics follows:
 
-![First Iteration](http://resources/District_HL_Snapshot_1)
+![First Iteration](/resources/District_HL_Snapshot_1)
+
+You will note the Thomas High School metrics.  
+
+Because the 9th grade scores at this school were considered to be unusable, they were removed and the percentages recalculated to reduce the totals at Thomas High School without the 9th grade numbers.  The following image shows what those numbers would have looked like if we had not adjusted the totals:
+
+![First Iteration](/resources/District_HL_Snapshot_2)
+
+Finally, the adjusted high-level summary indicates the results after re-running the analysis with the adjusted Thomas High School numbers:
+
+![First Iteration](/resources/District_HL_Snapshot_2)
 
 # Summary
 
