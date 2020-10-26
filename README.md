@@ -46,7 +46,7 @@ Because the 9th grade scores at this school were considered to be unusable, they
 
 Finally, the adjusted high-level summary indicates the results after re-running the analysis with the adjusted Thomas High School numbers:
 
-![3rd Iteration](Resources/District_HL_Snapshot_2.png)
+![3rd Iteration](Resources/District_HL_Snapshot_3.png)
 
 # Summary
 
