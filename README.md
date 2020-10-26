@@ -73,8 +73,24 @@ Our second analysis provided the following:
 
 ![Top5_1](Resources/Top5_Bottom5_2.png)
 
+Note the change in the passing percentages after the removal of the 9th grade scores at that school.
+
 ### The average math score received by students in each grade level at each school
 
+Following are the average Math and Reading scores by Grade:
+
+ #### Average Math Scores by Grade - First Analysis
+ ![Avg Math 1](Resources/Avg_Math_Grade_1.png)
+ 
+ #### Average Reading Scores by Grade - First Analysis
+ ![Avg Reading 1](Resources/Avg_Reading_Grade_1.png)
+
+ #### Average Math Scores by Grade - Second Analysis
+ ![Avg Math 2](Resources/Avg_Math_Grade_2.png)
+
+ #### Average Reading Scores by Grade - Second Analysis
+
+ ![Avg Reading 2](Resources/Avg_Reading_Grade_2.png)
 ### The average reading score received by students in each grade level at each school
 
 ### School performance based on the budget per student
