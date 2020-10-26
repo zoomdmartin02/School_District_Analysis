@@ -24,12 +24,15 @@ prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " D
 for word in prefixes_suffixes:
     student_data_df["student_name"] = student_data_df["student_name"].str.replace(word,"")
 ```
+<<<<<<< HEAD
 
 In the above snipet, we are using a For Loop to iterate through each of the prefixes and suffixes and update the student names in the larger student file, replacing characters left and right of blank spaces at the beginning and end of the students name with a zero length string.
 
 As we completed all of the deliverables above, we learned after completing them that there were some problems with the data at one of the schools in the district and that some of the scores were possibly fraudulent.  As a result, many of the steps herein were completed twice as we reevaluated the 9th grade scores at Thomas High School and excluded that subset of data.
 
 We will provide comparative information for our deliverables in the results section below as we also discuss the methods for attaining the deliverables.
+=======
+>>>>>>> 8e17f351c9b8bbc65837af7ce77d876b2436875c
 
 ---
 # Results
