@@ -36,7 +36,7 @@ We will provide comparative information for our deliverables in the results sect
 ---
 Our first presenation of the high-level snapshot of the district's key metrics follows:
 
-![First Iteration](https://github.com/zoomdmartin02/School_District_Analysis/resources/District_HL_Snapshot_1.png)
+![First Iteration](resources/District_HL_Snapshot_1.png)
 
 You will note the Thomas High School metrics.  
 
