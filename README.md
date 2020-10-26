@@ -55,11 +55,11 @@ You will note the Thomas High School metrics.
 
 Because the 9th grade scores at this school were considered to be unusable, they were removed and the percentages recalculated to reduce the totals at Thomas High School without the 9th grade numbers.  The following image shows what those numbers would have looked like if we had not adjusted the totals:
 
-![2nd Iteration](Resources/OV_Schools_HL_Snapshot_2.png)
+![2nd Iteration](Resources/OV_Schools_Snapshot_2.png)
 
 Finally, the adjusted high-level summary indicates the results after re-running the analysis with the adjusted Thomas High School numbers:
 
-![3rd Iteration](Resources/OV_Schools_Snapshot_3.png)
+![3rd Iteration](Resources/OV_Schools_HL_Snapshot_3.png)
 
 ## Additional Metrics
 
