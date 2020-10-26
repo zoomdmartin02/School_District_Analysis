@@ -34,19 +34,46 @@ We will provide comparative information for our deliverables in the results sect
 ---
 # Results
 ---
+## District High-Level metrics
 Our first presenation of the high-level snapshot of the district's key metrics follows:
 
-![First Iteration](Resources/District_HL_Snapshot_1.png)
+![HL District1](Resources/Dist_Summary_1.png)
+
+You'll note, in our first run of this table, we formatted the averages and percentages to 1 decimal place.
+
+![HL District2](Resources/Dist_Summary_2.png)
+
+In the above image, the averages and percentages are formatted to whole numbers.
+
+## Key Metrics by School
+
+The following tables demonstrate the key metrics by school.
+
+![First Iteration](Resources/OV_Schools_HL_Snapshot_1.png)
 
 You will note the Thomas High School metrics.  
 
 Because the 9th grade scores at this school were considered to be unusable, they were removed and the percentages recalculated to reduce the totals at Thomas High School without the 9th grade numbers.  The following image shows what those numbers would have looked like if we had not adjusted the totals:
 
-![2nd Iteration](Resources/District_HL_Snapshot_2.png)
+![2nd Iteration](Resources/OV_Schools_HL_Snapshot_2.png)
 
 Finally, the adjusted high-level summary indicates the results after re-running the analysis with the adjusted Thomas High School numbers:
 
-![3rd Iteration](Resources/District_HL_Snapshot_3.png)
+![3rd Iteration](Resources/OV_Schools_Snapshot_3.png)
+
+## Additional Metrics
+
+### Top 5 and bottom 5 performing schools, based on the overall passing rate
+
+### The average math score received by students in each grade level at each school
+
+### The average reading score received by students in each grade level at each school
+
+### School performance based on the budget per student
+
+### School performance based on the school size 
+
+### School performance based on the type of school
 
 # Summary
 
