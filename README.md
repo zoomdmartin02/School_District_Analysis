@@ -36,17 +36,17 @@ We will provide comparative information for our deliverables in the results sect
 ---
 Our first presenation of the high-level snapshot of the district's key metrics follows:
 
-![First Iteration](resources/District_HL_Snapshot_1)
+![First Iteration](/resources/District_HL_Snapshot_1.png)
 
 You will note the Thomas High School metrics.  
 
 Because the 9th grade scores at this school were considered to be unusable, they were removed and the percentages recalculated to reduce the totals at Thomas High School without the 9th grade numbers.  The following image shows what those numbers would have looked like if we had not adjusted the totals:
 
-![2nd Iteration](resources/District_HL_Snapshot_2)
+![2nd Iteration](/resources/District_HL_Snapshot_2.png)
 
 Finally, the adjusted high-level summary indicates the results after re-running the analysis with the adjusted Thomas High School numbers:
 
-![erd Iteration](resources/District_HL_Snapshot_2)
+![erd Iteration](/resources/District_HL_Snapshot_2.png)
 
 # Summary
 
