@@ -14,7 +14,7 @@ Our client, Maria has asked to take two data sets, a smaller data set composed o
 
 The first task after downloading the data was to inspect visually and with several python functions and methods to ensure the data was clean and in the appropriate format.  It was determined that the data did need some clean-up including correcting for inappropriate prefixes and suffixes.  Following code excerpt demonstrates the cleaning method:
 
-'''
+```
 # Cleaning Student Names and Replacing Substrings in a Python String
 # Add each prefix and suffix to remove to a list.
 prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD"]
@@ -22,7 +22,7 @@ prefixes_suffixes = ["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " D
 # Iterate through the words in the "prefixes_suffixes" list and replace them with an empty space, "".
 for word in prefixes_suffixes:
     student_data_df["student_name"] = student_data_df["student_name"].str.replace(word,"")
-'''
+```
 
 # Results
 ---
