@@ -43,7 +43,7 @@ You'll note, in our first run of this table, we formatted the averages and perce
 
 ![HL District2](Resources/Dist_Summary_2.png)
 
-In the above image, the averages and percentages are formatted to whole numbers.
+In the above image, the percentages are formatted to whole numbers.
 
 ## Key Metrics by School
 
@@ -64,6 +64,14 @@ Finally, the adjusted high-level summary indicates the results after re-running 
 ## Additional Metrics
 
 ### Top 5 and bottom 5 performing schools, based on the overall passing rate
+
+The first analysis performed resulted in the following Top 5 and Bottom 5 schools based on overall passing rate:
+
+![Top5_1](Resources/Top5_Bottom5_1.png)
+
+Our second analysis provided the following:
+
+![Top5_1](Resources/Top5_Bottom5_2.png)
 
 ### The average math score received by students in each grade level at each school
 
