@@ -91,14 +91,32 @@ Following are the average Math and Reading scores by Grade:
  #### Average Reading Scores by Grade - Second Analysis
 
  ![Avg Reading 2](Resources/Avg_Reading_Grade_2.png)
-### The average reading score received by students in each grade level at each school
+
 
 ### School performance based on the budget per student
 
+Following table depicts school performance based on budget per student - First Analysis
+![School Perf 1](Resources/Sch_Perf_Budget_1.png)
+
+Second Analysis:
+![School Perf 2](Resources/Sch_Perf_Budget_2.png)
+
 ### School performance based on the school size 
+Following are the results for school performance based on school size - First Analysis:
+![School Perf Size1](Resources/Sch_Perf_Size_1.png)
+
+Second Analysis:
+![School Perf Size2](Resources/Sch_Perf_Size_2.png)
+
 
 ### School performance based on the type of school
+Following is the result for school performance based on type of school - First analysis
+![School Perf Type1](Resources/Sch_Perf_Type_1.png)
+
+Second Analysis:
+![School Perf Type2](Resources/Sch_Perf_Type_2.png)
 
 # Summary
+School performance seemed to be less about Budget spent per student as many of the large schools had high budgets per student, but poor performance results.  The data shows that small and medium sized schools out performed large schools.  Finally, the data indicates that the type of school clearly matters as Charter schools greatly performed the District schools.
 
-## Deliverables:
+
